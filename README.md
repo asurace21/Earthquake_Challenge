@@ -1,1 +1,3 @@
 # Earthquake_Challenge
+## Overview
+The purpose of this project is to display the differences between magnitudes of earthquakes all across the world. We will write a script to pull the GeoJSON earthquake data from the USGS website in order to retreive the most up to date coordinates and magnitudes of recent earthquakes. Once the data is received we then add it to the map. We use JavaScript and D3.js library to plot the data. Using an API request we were able to make it interactive by adding visualizations for different map styles. In addition we also created layers to display the tectonic plates, along with Earthquake magnitudes and location. 
